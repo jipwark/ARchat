@@ -83,7 +83,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "VRchat" # Site name or title, also used in jekyll-seo-tag
+title: "" # Site name or title, also used in jekyll-seo-tag
 description: "VRchat is a platform for people to connect with new people!" # Site description and default description, also used in jekyll-seo-tag
 url: "https://jipwark.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: "/ARchat/"
