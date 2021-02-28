@@ -70,7 +70,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "About us"
+      type: "posts"
     values:
       layout: post # Set the default layout for posts
   -
@@ -107,12 +107,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Why 
+- title: Home 
   url: /
-- title: Mission
-  url: /mission/
-- title: About us
-  url: /about us/
 - title: Search
   url: /search/
 
